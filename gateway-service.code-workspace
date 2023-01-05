@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "gateway-service"
+		},
+		{
+			"path": "communication-service"
+		},
+		{
+			"path": "analytics-service"
+		}
+	],
+	"settings": {}
+}
